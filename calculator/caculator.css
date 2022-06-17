@@ -1,0 +1,32 @@
+button
+{
+    font-weight: bolder;
+    height: 70px;
+}
+#number1
+{
+    margin-top: 30px;
+    margin-left: 765px;
+    margin-right: 10px;
+    text-decoration: underline;
+}
+#number2
+{
+    text-decoration: underline;
+}
+.Add
+{
+    margin-top: 100px;
+    margin-left: 700px;
+}
+.Multiply
+{
+    margin-top: 30px;
+    margin-left: 755px;
+    margin-bottom: 40px;
+}
+#Result
+{
+    
+    margin-left: 770px;
+}

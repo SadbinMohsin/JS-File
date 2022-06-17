@@ -1,0 +1,25 @@
+
+    
+#container
+{
+    text-align: center;
+    
+    margin-top: 300px;
+}
+#container button
+{
+    color:whitesmoke;
+    background-color: brown;
+    width: 300px;
+    padding: 30px;
+}
+#paragraph
+{
+    text-align: center;
+}
+#paragraph p
+{ 
+    
+    margin-top: 5px;
+    color: black;
+}

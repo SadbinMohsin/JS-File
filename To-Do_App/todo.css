@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+}
+.app{
+    width:300px;
+    height:500px;
+    border: 2px solid green;
+}
+.Tasks
+{
+    text-align: center;
+}
+
+#addNew
+{   
+    display: flex;
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.fa-plus{
+    background-color: #abcea1;
+    padding:3px 4px;
+    border-radius: 2px;
+}

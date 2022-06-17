@@ -1,0 +1,21 @@
+.red_shoe
+{
+    height: 400px;
+    margin-left: 100px;
+}
+.Nike
+{
+    font-weight: bold;
+    margin-left: 100px;
+}
+.Purchase
+{
+    margin-left: 100px;
+    font-weight: bolder;
+}
+#Error
+{
+    color: red;
+    text-align: center;
+}
+    
